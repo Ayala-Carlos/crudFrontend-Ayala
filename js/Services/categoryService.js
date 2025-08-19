@@ -26,3 +26,4 @@ export async function deleteCategory(id){
         method:"DELETE"
     })
 }
+ 
